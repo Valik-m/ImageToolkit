@@ -1,0 +1,12 @@
+D:\Study\MKOI\Lab_MKOI\Lab_MKOI\bin\Debug\Lab_MKOI.exe.config
+D:\Study\MKOI\Lab_MKOI\Lab_MKOI\bin\Debug\Lab_MKOI.exe
+D:\Study\MKOI\Lab_MKOI\Lab_MKOI\bin\Debug\Lab_MKOI.pdb
+D:\Study\MKOI\Lab_MKOI\Lab_MKOI\obj\Debug\Lab_MKOI.Properties.Resources.resources
+D:\Study\MKOI\Lab_MKOI\Lab_MKOI\obj\Debug\Lab_MKOI.csproj.GenerateResource.Cache
+D:\Study\MKOI\Lab_MKOI\Lab_MKOI\obj\Debug\Lab_MKOI.exe
+D:\Study\MKOI\Lab_MKOI\Lab_MKOI\obj\Debug\Lab_MKOI.pdb
+D:\Study\MKOI\Lab_MKOI\Lab_MKOI\obj\Debug\Lab_MKOI.MainForm.resources
+D:\Study\MKOI\Lab_MKOI\Lab_MKOI\obj\Debug\Lab_MKOI.PromptForm.resources
+D:\Study\MKOI\Lab_MKOI\Lab_MKOI\obj\Debug\Lab_MKOI.csprojResolveAssemblyReference.cache
+D:\Study\MKOI\Lab_MKOI\Lab_MKOI\obj\Debug\Lab_MKOI.HistogramForm.resources
+D:\Study\MKOI\Lab_MKOI\Lab_MKOI\obj\Debug\Lab_MKOI.BitPlainForm.resources
